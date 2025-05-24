@@ -1,5 +1,6 @@
 # Halo3-ODST-hackcard
 My first time at PCB design (using kicad and overall) for the Hackclub solder YSWS
+Designed with <3 by Echo_315 on slack
 
 This is my Hackathon card. I designed it around the shape of the Halo 3: ODST (Orbital Drop Shock Troopers) drop pods. I chose this design because Halo 3: ODST is one of, if not my favorite game. This card uses a photoresistor to change the brightness of an LED as the ambient light level changes.
 
