@@ -10,6 +10,7 @@ This is my Hackathon card. I designed it around the shape of the Halo 3: ODST (O
 # schematic
 ![image](https://github.com/user-attachments/assets/3601bee9-e219-4a7c-b17c-9e7aff8e2025)
 # PCB
-![image](https://github.com/user-attachments/assets/72d1282c-f94a-4d4e-834e-93be9599063c)
+![image](https://github.com/user-attachments/assets/f23f0d5d-2662-409c-9bba-804c5dca796b)
 # 3D model
-![image](https://github.com/user-attachments/assets/fe449fe3-abf6-4f02-9ac4-e0cff06ce404)
+![image](https://github.com/user-attachments/assets/3d362ff2-2d9f-406d-a649-cb9b5190cfdf)
+
